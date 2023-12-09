@@ -1,0 +1,18 @@
+.indicator {
+    bottom: 0;
+}
+
+
+.modal {
+    width: 100px;
+}
+
+.carousel_img {
+    max-height: 700px;
+    width: auto;
+}
+
+.carousel {
+    display: flex;
+    flex-direction: column;
+}

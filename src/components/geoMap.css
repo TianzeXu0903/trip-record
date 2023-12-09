@@ -1,0 +1,9 @@
+.stateSelected {
+  stroke-width: 5;
+  stroke: grey;
+}
+  
+
+.stateVisited {
+    fill: #3b813299
+}
